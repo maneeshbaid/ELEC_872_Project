@@ -4,7 +4,7 @@ Department of Electrical and Computer Engineering</br>
 Queen’s University</br>
 </br>
 </br>
-This git repository contains the code for implementing three new methods: CNN-LSTM with Multi-Head Attention, CNN-TCN, CNN-TCN with Multi-Head Attention for MHEALTH and the WISDM dataset. We utilized the code by Singh et al. [1], available on GitHub [2], as a baseline for our code. Chatgpt [3] was also used to complete the code.
+This git repository contains the code for implementing three new methods: CNN-LSTM with Multi-Head Attention, CNN-TCN, CNN-TCN with Multi-Head Attention for MHEALTH and the WISDM dataset. We utilized the code by Singh et al. [1], available on GitHub [2], as a baseline for our code. Chatgpt [3] was utilized to get the syntax and fix bugs.
 </br>
 Datasets are available in the dataset/LOTO folder, and the code for these new methods is under the codes/model_proposed folder.
 ## Setup
